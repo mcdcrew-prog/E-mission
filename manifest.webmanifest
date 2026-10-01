@@ -1,0 +1,17 @@
+{
+  "name": "McEquipment — McDonald's Maroc",
+  "short_name": "McEquipment",
+  "description": "Maintenance, commandes de pièces HK et investissements CAPEX",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#13161A",
+  "theme_color": "#13161A",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
